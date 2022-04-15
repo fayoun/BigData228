@@ -1,9 +1,9 @@
 ## Big Data
 
-This repository is created for the Class Big Data 228 
+This repository is created for the Class Big Data
 
 
-Data 228 - Big Data Technologies and Applications
+Big Data Technologies and Applications
 
 Department of Applied Data Science
 
@@ -14,11 +14,11 @@ San Jose State University
 
 ## Team Members
  
-Faiza Ayoun (015960139)
+Faiza Ayoun 
 
-Harsimran Kaur (016003468)
+Harsimran Kaur 
 
-Pooja Malage (015294760)
+Pooja Malage 
 
-Saranya Pandiaraj (015304497)
+Saranya Pandiaraj 
  
